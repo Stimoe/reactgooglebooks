@@ -17,6 +17,6 @@ Save books
 
 Saved - Renders all books saved to the Mongo database. User has an option to "View" the book, bringing them to the book on Google Books, or "Delete" a book, removing it from the Mongo database.
 
-Any questions can be sent to me Thomas Stimac, on my porfolio page, at https://stimoe.github.io/Portfolio-Contact/ This was solely produced by myself, Thomas Stimac
+Any questions can be sent to me Thomas Stimac, on my porfolio page, at https://stimoe.github.io/Thomas-Portfolio-Page/ This was solely produced by myself, Thomas Stimac
 
 Link to project, https://stimoe-google-books.herokuapp.com/
